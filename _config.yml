@@ -74,14 +74,14 @@ collections:
   authors:
     output: true
   testimonials:
-    output: true
+    output: false
   features:
-    output: true
+    output: false
   team:
-    output: true
+    output: false
   sections:
-    output: true
+    output: false
   slides:
-    output: true
+    output: false
   products:
-    output: true
+    output: false
