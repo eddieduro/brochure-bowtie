@@ -2,7 +2,7 @@
 location: 'homepage'
 head:
   title: 'Serving your City since 1999'
-  subtitle:
+  subtitle: 'Selling your car? Hire a plumber!'
 
 style:
   id: 'features'

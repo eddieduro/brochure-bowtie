@@ -80,7 +80,7 @@ collections:
   team:
     output: false
   sections:
-    output: false
+    output: true
   slides:
     output: false
   products:
