@@ -85,3 +85,5 @@ collections:
     output: false
   products:
     output: false
+  posts:
+    output: true
