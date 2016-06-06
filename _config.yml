@@ -72,18 +72,16 @@ exclude:
 collections:
 
   authors:
-    output: false
+    output: true
   testimonials:
-    output: false
+    output: true
   features:
-    output: false
+    output: true
   team:
-    output: false
+    output: true
   sections:
-    output: false
+    output: true
   slides:
-    output: false
+    output: true
   products:
-    output: false
-  posts:
     output: true
