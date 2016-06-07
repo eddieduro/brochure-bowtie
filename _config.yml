@@ -1,13 +1,12 @@
 # Site settings
-title: Brochure Site - a Jekyll template by BowTie.io
-description: >
-  Build a simple small business website that requires zero maintenance. The BowTie collection editor makes it easy to build sites, blogs, or static apps that you can hand off to clients.
+title: Rick James & Sons
+description: Selling some stuff
 
 email: info@example.com
 
 logourl: /img/logo.png # Your logo or avatar
 
-author: Your Name
+author: Rick James
 
 author_thumbnail: /img/user1.png # default author avatar
 
@@ -18,8 +17,8 @@ google_analytics_id:  # Your google analytics ID (e.g. 'UA-XXXXXXXX-X')
 theme:
   # Company contact info
   contact:
-    company:  Company Name
-    address:  1644 Platte
+    company:  Rick James & sons
+    address:  1223 Purple sunset
     city:     Denver
     state:    CO
     zip:      80202
