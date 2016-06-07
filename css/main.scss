@@ -38,11 +38,8 @@ $on-laptop:        768px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting",
-        "bowtie",
-        "blog",
-        "landers",
-        "theme"
-;
+        "base/main",
+        "layout/main",
+        "vendors/main",
+        "pages/main",
+        "themes/main";
